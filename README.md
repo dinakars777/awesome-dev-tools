@@ -125,6 +125,7 @@ Modern development happens in the terminal. This list focuses on CLI/TUI tools t
 
 ## Productivity
 
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Select separate CODEX_HOME directories for Codex CLI profiles without copying tokens.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [zellij](https://github.com/zellij-org/zellij) - Terminal workspace with batteries included.
 - [starship](https://github.com/starship/starship) - Minimal, fast shell prompt.
