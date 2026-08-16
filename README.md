@@ -9,6 +9,7 @@ Modern development happens in the terminal. This list focuses on CLI/TUI tools t
 - [Version Control](#version-control)
 - [Build & Task Runners](#build--task-runners)
 - [Code Quality](#code-quality)
+- [Testing & QA](#testing--qa)
 - [API Development](#api-development)
 - [Database Tools](#database-tools)
 - [Container & Orchestration](#container--orchestration)
@@ -48,6 +49,10 @@ Modern development happens in the terminal. This list focuses on CLI/TUI tools t
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter.
 - [yamllint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
 - [prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
+
+## Testing & QA
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Run natural-language web and mobile QA from a CLI with persistent test memory and an MCP server.
 
 ## API Development
 
