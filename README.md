@@ -106,6 +106,7 @@ Modern development happens in the terminal. This list focuses on CLI/TUI tools t
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [dog](https://github.com/ogham/dog) - Command-line DNS client.
 - [gping](https://github.com/orf/gping) - Ping with a graph.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Mac network diagnostics with host checks and JSON output.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
 
 ## Security & Secrets
